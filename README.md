@@ -18,7 +18,7 @@ Tapping on an item will launch a new activity where we see a larger image at the
 Bonus: An accompaning Espresso test mimicking a golden path (select 1st element, view its contents, back press, select 2nd element..)
 ```
 
-### Intrepretation
+## Intrepretation
 
 ##### Getting the data
 
@@ -52,7 +52,11 @@ The details of the album must be in a single ViewGroup. I chose to put it in a C
 
 I created an Espresso Test, called 'GoldenRuleTest' that clicks on each of the RecyclerView items in AlbumActivity (which shows AlbumDetailActivity), and backs out of it. GoldenRuleTest is designed so that it can apply to any number of RecyclerView items in AlbumActivity, if the URL were to change from 10 items to, say, 25.
 
-### Installation and Execution
+##### Picasso
+
+The application uses Picasso's external libraries to load images.
+
+## Installation and Execution
 
 (Note: these instructions are for Android Studio. If you're installing on Eclipse, check out [this](https://stackoverflow.com/questions/24462452/how-to-import-eclipse-project-from-git-to-android-studio).
 
