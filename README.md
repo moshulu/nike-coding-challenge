@@ -72,6 +72,9 @@ The project should automatically clone into your IDE, and start syncing.
 - Better testing across a larger variety of phones to test responsiveness of UI
 - Figuring out edge cases across a larger variety of phones
 
+### Problems
+- I didn't have an Android phone, and couldn't accurately the feature that automatically launched the Apple Music app when pressed on the button in AlbumDetailActivity. I wouldn't have run into this problem if I had the proper materials.
+
 ## Expected output
 Pixel 2 API 28
 ![alt text](https://imgur.com/nXHLQhd.png "AlbumActivity Pixel 2 API 28")
