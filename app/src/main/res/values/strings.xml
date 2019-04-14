@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nike Coding Challenge</string>
+    <string name="title_activity_album_detail">AlbumDetailActivity</string>
+</resources>
