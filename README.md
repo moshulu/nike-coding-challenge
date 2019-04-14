@@ -73,12 +73,12 @@ The project should automatically clone into your IDE, and start syncing.
 - Figuring out edge cases across a larger variety of phones
 
 ## Expected output
-![alt text](https://imgur.com/VksEyUo "AlbumActivity Pixel 2 API 28")
-![alt text](https://imgur.com/xcP8Tbi "AlbumDetailActivity Pixel 2 API 28")
-![alt text](https://imgur.com/0RbsLNz "AlbumActivity Nexus 4 API 24")
-![alt text](https://imgur.com/x6z97YJ "AlbumDetailActivity Nexus 4 API 24")
-![alt text](https://imgur.com/jfQAf59 "AlbumActivity Pixel 2 API 26")
-![alt text](https://imgur.com/Kufpynd "AlbumDetailActivity Pixel 2 API 26")
+![alt text](https://imgur.com/nXHLQhd "AlbumActivity Pixel 2 API 28")
+![alt text](https://imgur.com/X8giY71 "AlbumDetailActivity Pixel 2 API 28")
+![alt text](https://imgur.com/gNIYX8m "AlbumActivity Nexus 4 API 24")
+![alt text](https://imgur.com/3pCo3M7 "AlbumDetailActivity Nexus 4 API 24")
+![alt text](https://imgur.com/uJr1Yf9 "AlbumActivity Pixel 2 API 26")
+![alt text](https://imgur.com/aRvMWGX "AlbumDetailActivity Pixel 2 API 26")
 
 
 
