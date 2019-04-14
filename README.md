@@ -67,7 +67,7 @@ The project should automatically clone into your IDE, and start syncing.
 ### Things I want to improve on in upcoming iterations
 - Easier passing data between activies. I used ArrayList<Map<String, Any>> for my ease, but I think I can do better.
 - Asking questions about the requirements in order to give the customer a better product. I did this project on the weekend, and was unable to contact the requirement-givers over the weekend. I strongly believe that if I were working closely with a customer, I wouldn't run into this problem at all.
-- Enabling of KDoc for documentation. Look it up (here)[https://kotlinlang.org/docs/reference/kotlin-doc.html]
+- Enabling of KDoc for documentation. Look it up [here](https://kotlinlang.org/docs/reference/kotlin-doc.html)
 - The UI design
 - Better testing across a larger variety of phones to test responsiveness of UI
 - Figuring out edge cases across a larger variety of phones
